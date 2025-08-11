@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://docs.teslavpn.shop/sitemap.xml
+# Crawl-delay
+Crawl-delay: 1
+
+Disallow: /.vitepress/
+Disallow: /node_modules/
+Disallow: /.git/ 
