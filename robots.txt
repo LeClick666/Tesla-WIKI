@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.teslavpn.shop/sitemap.xml
+Sitemap: https://tesla-wiki.online/sitemap.xml
 # Crawl-delay
 Crawl-delay: 1
 
